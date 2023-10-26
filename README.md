@@ -14,9 +14,9 @@ This is the Java serverless variant of the Connected Car service. The repository
 
 These are the repositories used for this variant of the sample code:
 
-* [https://github.com/johngrantham/aws-connectedcar-java-serverless](https://github.com/johngrantham/aws-connectedcar-java-serverless)
-* [https://github.com/johngrantham/aws-connectedcar-java-core](https://github.com/johngrantham/aws-connectedcar-java-core)
-* [https://github.com/johngrantham/aws-connectedcar-common](https://github.com/johngrantham/aws-connectedcar-common)
+* aws-connectedcar-java-serverless
+* aws-connectedcar-java-core
+* aws-connectedcar-common
 
 ### [AWS Connected Car (.Net Serverless)](https://builder.johng.org/code/aws-connected-car-dotnet-serverless)
 
@@ -24,6 +24,6 @@ This is the .Net serverless variant of the Connected Car service. As with the Ja
 
 These are the repositories used for this variant of the sample code:
 
-* [https://github.com/johngrantham/aws-connectedcar-dotnet-serverless](https://github.com/johngrantham/aws-connectedcar-dotnet-serverless)
-* [https://github.com/johngrantham/aws-connectedcar-dotnet-core](https://github.com/johngrantham/aws-connectedcar-dotnet-core)
-* [https://github.com/johngrantham/aws-connectedcar-common](https://github.com/johngrantham/aws-connectedcar-common)
+* aws-connectedcar-dotnet-serverless
+* aws-connectedcar-dotnet-core
+* aws-connectedcar-common
