@@ -1,6 +1,6 @@
 This Github account contains sample code for courses and tutorials found on my [path2serverless.com](https://path2serverless.com) educational website. What follows is a summary of the courses on this site, along with the sample code used, and the associated repositories.
 
-## [Learning AWS Serverless Course](https://builder.johng.org/courses/learning-aws-serverless)
+## [Learning AWS Serverless Course](https://path2serverless.com/courses/learning-aws-serverless)
 
 This course steps you through designing and building secure, high-performance services using the AWS serverless stack. Along the way you'll also learn to use the tools and supporting services for deployment and monitoring necessary to support real production workloads. 
 
@@ -8,7 +8,7 @@ The sample code offered for this course are two variants of the Connected Car so
 
 Here are links to more information about the two variants of this solution:
 
-### [AWS Connected Car (Java Serverless)](https://builder.johng.org/code/aws-connected-car-java-serverless)
+### [AWS Connected Car (Java Serverless)](https://path2serverless.com/code/aws-connected-car-java-serverless)
 
 This is the Java serverless variant of the Connected Car service. The repository links are shown below, and follow the link in the title above to find Quick Start Guides for this specific code, guides for the Connected Car service, and support documents to help you set up your accounts and workstation.
 
@@ -18,7 +18,7 @@ These are the repositories used for this variant of the sample code:
 * aws-connectedcar-java-core
 * aws-connectedcar-common
 
-### [AWS Connected Car (.Net Serverless)](https://builder.johng.org/code/aws-connected-car-dotnet-serverless)
+### [AWS Connected Car (.Net Serverless)](https://path2serverless.com/code/aws-connected-car-dotnet-serverless)
 
 This is the .Net serverless variant of the Connected Car service. As with the Java variant, follow the link in the title above to find Quick Start Guides for this specific code, guides for the Connected Car service, and support documents to help you set up your accounts and workstation.
 
