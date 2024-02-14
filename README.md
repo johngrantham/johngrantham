@@ -1,4 +1,4 @@
-This Github account contains sample code for courses and tutorials found on my [builder.johng.org](https://builder.johng.org) educational website. What follows is a summary of the courses on this site, along with the sample code used, and the associated repositories.
+This Github account contains sample code for courses and tutorials found on my [path2serverless.com](https://path2serverless.com) educational website. What follows is a summary of the courses on this site, along with the sample code used, and the associated repositories.
 
 ## [Learning AWS Serverless Course](https://builder.johng.org/courses/learning-aws-serverless)
 
